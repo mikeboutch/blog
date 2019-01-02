@@ -15,10 +15,8 @@ If you want to know what I was doing, read my Facebook...
 
 But you will never know me, without meeting me!
 
+## This site was not build only with, but also with VIM !
 
-
-
-# This site was not build only with, but also with VIM !
 ### A big mention to HUGO
 
 Hugo is a static site engine written in Go.

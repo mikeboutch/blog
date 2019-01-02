@@ -1,5 +1,5 @@
 theme = "blackburn"
-baseurl = "https://www.example.com/" # Make sure to end baseurl with a '/'
+baseurl = "http://mikeboutch.githuib.io/" # Make sure to end baseurl with a '/'
 title = "Michel Buczynski"
 author = "Michel Buczynski"
 # Shown in the side menu
